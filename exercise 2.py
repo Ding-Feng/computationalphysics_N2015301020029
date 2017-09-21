@@ -15,7 +15,7 @@ black = 255, 255, 255
 
 screen = pygame.display.set_mode(size)
 
-ball = pygame.image.load('C:/Users/MSI/Desktop/无标题.png')#将名字用QQ截图后保存成图片 替代原程序中的球
+ball = pygame.image.load('https://github.com/whucola/computationalphysics_N2015301020029/blob/master/%E6%97%A0%E6%A0%87%E9%A2%98.png')#将名字用QQ截图后保存成图片 替代原程序中的球
 ballrect = ball.get_rect()
 
 while True:
