@@ -4,4 +4,4 @@ Homework List
 
 [Exercise_2](https://github.com/whucola/computationalphysics_N2015301020029/blob/master/exercise%202)
 
-[Exercise_3]
+[Exercise_3](https://www.zybuluo.com/Ding-feng/note/898799)
