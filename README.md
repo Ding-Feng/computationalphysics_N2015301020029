@@ -9,3 +9,5 @@ Homework List
 [Exercise_4](https://www.zybuluo.com/Ding-feng/note/912592)
 
 [Exercise_5](https://www.zybuluo.com/Ding-feng/note/922529)
+
+[Exercise_6](https://www.zybuluo.com/Ding-feng/note/930050)
