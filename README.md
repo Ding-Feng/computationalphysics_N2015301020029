@@ -12,6 +12,8 @@ Homework List
 
 [Exercise_6](https://www.zybuluo.com/Ding-feng/note/930050)
 
-[Exercise_7](https://www.zybuluo.com/Ding-feng/note/937078)
+[Exercise_7](https://www.zybuluo.com/Ding-feng/note/937078）
 
 [pygame 贪吃蛇](https://github.com/whucola/computationalphysics_N2015301020029/blob/master/pygame)
+
+[Exercise_9](https://www.zybuluo.com/Ding-feng/note/971568）
